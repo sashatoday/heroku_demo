@@ -1,6 +1,6 @@
 # FindMin-web
 
-## Link to app
+## Link to the app
 
 [find-min-web-page.herokuapp.com](http://find-min-web-page.herokuapp.com/)
 
